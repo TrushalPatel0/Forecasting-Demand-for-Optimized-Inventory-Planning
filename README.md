@@ -126,6 +126,10 @@ From the above graph, we can see that the daywise prediction of demands is getti
 2018-07-13	7.281683e+05
 ```
 
--------------------
-## **More information**
-Visit this python file for more detailed analysis [Inventory_Planning.ipynb](https://github.com/anjanikmr39/Forecasting-Demand-for-Inventory-Planning/blob/master/Inventory_Planning.ipynb)
+-----------
+
+For More Information
+Please review the full analysis in the [final notebook](https://github.com/TrushalPatel0/Earthquake/blob/master/EquakeDamagePred.ipynb).
+
+For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
+
