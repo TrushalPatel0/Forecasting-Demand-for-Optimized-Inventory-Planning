@@ -65,8 +65,20 @@ time frame.
   c) demand prediction	
   
   d) revenue
+
   
+-------
+## Access Live Dashboard - [View This](https://app.powerbi.com/view?r=eyJrIjoiM2I1ZTFlNzktNWE5OS00ZGMzLWIwMWUtY2U1NGMwYzQzYzQzIiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9)
+-------
+
+<img width="979" alt="image" src="https://github.com/TrushalPatel0/Forecasting-Demand-for-Optimized-Inventory-Planning/assets/144200919/32e0ed98-3bfb-45cd-b05d-c174563fab34">
+
+
+
 -----------
+# **Time Series Forecasting**
+---------
+
 For Time series Forecasting (TSF) we need time and demand prediction features only
 <br/>
 
