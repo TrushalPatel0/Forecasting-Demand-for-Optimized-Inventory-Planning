@@ -129,7 +129,7 @@ From the above graph, we can see that the daywise prediction of demands is getti
 -----------
 
 For More Information
-Please review the full analysis in the [final notebook](https://github.com/TrushalPatel0/Earthquake/blob/master/EquakeDamagePred.ipynb).
+Please review the full analysis in the [Inventory_Planning.ipynb](https://github.com/TrushalPatel0/Forecasting-Demand-for-Optimized-Inventory-Planning/blob/master/Inventory_Planning.ipynb)
 
 For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
 
